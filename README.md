@@ -25,4 +25,35 @@ This section briefly highlights some of my personal projects.
 
 **Result**: Using the Chornos-2 time-series model on 84 quarters of data (2005-2025), backtested against real outcomes with a 1.08% MAPE, which is a strong fit. The projection through 2028 shows that average prices climb from RM510,593 to ~RM545,951, a further ~7% rise, with a 90% confidence interval of RM523,598–RM564,885.
 
-**Code**
+**Code**:
+
+**Malaysia's Housing Affordability Dashboard**
+
+**Objective**: Democratise granular housing market data by evaluating longitudinal housing affordability trends across national, state, and district levels, uncovering localised micro-affordability crises masked by aggregate macro baselines.
+
+**Description**: An interactive, multi-tiered real estate analytics dashboard built to analyze over 15,000 data points across 16 states/territories and 137 districts in Malaysia over a 10-year period (2015–2025). The dashboard cross-references household median income against mean/median property prices across 9 distinct residential dwelling types to evaluate Price-Income Ratios (PIR) and track spatial affordability shifts.
+
+**Skills**: Data Cleaning,  Data Wrangling, Data Visualisation, Data Analytics, Property Economics and Research
+
+**Technology**: Tableau, Microsoft Excel
+
+**Result**: Identified that while the aggregate national PIR improved from $4.01x (2015) to $3.20x (2025), district-level unaffordability worsened across market-rate dwellings, proving macro metrics mask micro-market realities. The findings show the total disappearance of healthy state baselines (<3.00x PIR) post-2019, revealing that every state now breaches healthy limits for overall aggregate housing stock.
+
+**Link**: [Tableau Public](https://public.tableau.com/app/profile/muzzammil.zekri/viz/MalaysiasHousingAffordabilityDashboard/Dashboard-HousingAffordability)
+
+**Data-driven literature analysis of artificial intelligence (AI) in real estate research: a bibliometric and machine learning-based approach** - Peer-reviewed research paper
+
+**Objective**: The study aims to provide a comprehensive review of research trends and developments in the application of artificial intelligence (AI) within the real estate domain, with a focus on understanding the field’s diversity and evolution.
+
+**Description**: Research conducted bibliometric analyses using SCImago Graphica, Bibliometrix, and ScientoPy to examine global publication patterns and research trends. To identify underlying topics and guide future research, Structural Topic Modelling (STM), a machine learning (ML)-based approach, was applied to uncover latent themes.
+
+**Skills**: Data Cleaning,  Data Wrangling, Data Visualisation, Data Analytics, Sentiment Analysis, Bibliometric Analysis, Machine Learning
+
+**Technology**: R, Structural Topic Modelling (STM), Natural Language Processing (NLP), SCImago Graphica, Bibliometrix, ScientoPy
+
+**Result**: Results from the ML analysis highlight several emerging research themes, including “Deep Learning Models for Property Analysis”, “Virtual/Augmented Reality Applications”, “PropTech and Smart/ Digital Systems in Property Practices” and “Smart Urban Planning and Land Use”, all of which present considerable potential for future research. There is clear diversification of AI-related real estate research. Whilst early studies focused on ML and optimisation models for valuation and forecasting, the last decade has seen a broadening of focus. The absence of a single dominant “hot topic” in recent years suggests a maturing discipline with multiple concurrent research directions.
+
+**Link**: [ResearchGate](https://www.researchgate.net/publication/395957312_Data-driven_literature_analysis_of_artificial_intelligence_AI_in_real_estate_research_a_bibliometric_and_machine_learning-based_approach)
+**Code**:
+
+
