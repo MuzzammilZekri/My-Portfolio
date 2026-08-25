@@ -54,6 +54,22 @@ This section briefly highlights some of my personal projects.
 **Result**: Results from the ML analysis highlight several emerging research themes, including “Deep Learning Models for Property Analysis”, “Virtual/Augmented Reality Applications”, “PropTech and Smart/ Digital Systems in Property Practices” and “Smart Urban Planning and Land Use”, all of which present considerable potential for future research. There is clear diversification of AI-related real estate research. Whilst early studies focused on ML and optimisation models for valuation and forecasting, the last decade has seen a broadening of focus. The absence of a single dominant “hot topic” in recent years suggests a maturing discipline with multiple concurrent research directions.
 
 **Link**: [ResearchGate](https://www.researchgate.net/publication/395957312_Data-driven_literature_analysis_of_artificial_intelligence_AI_in_real_estate_research_a_bibliometric_and_machine_learning-based_approach)
+
 **Code**:
 
+# Education
+
+Doctorate Degree (PhD), Property - University of Auckland
+
+Master’s Degree (M.Phil), Real Estate - Universiti Teknologi Malaysia
+
+Bachelor’s Degree (Hons), Property Management - Universiti Teknologi Malaysia
+
+Diploma, Property Management - Universiti Teknologi Malaysia
+
+# Contacts
+
+LinkedIn: [Muzzammil Zekri](https://www.linkedin.com/in/muzzammilzekri93/)
+
+Email: muzzammil.zekri@gmail.com
 
