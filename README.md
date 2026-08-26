@@ -29,7 +29,7 @@ This section briefly highlights some of my personal projects.
 
 **Result**: Using the Chornos-2 time-series model on 84 quarters of data (2005-2025), backtested against real outcomes with a 1.08% MAPE, which is a strong fit. The projection through 2028 shows that average prices climb from RM510,593 to ~RM545,951, a further ~7% rise, with a 90% confidence interval of RM523,598–RM564,885.
 
-**Code**:[Property_Prices_Chronos_2.ipynb](https://github.com/MuzzammilZekri/Projects/blob/main/Property_Prices_Chronos_2.ipynb)
+**Code**: [Property_Prices_Chronos_2.ipynb](https://github.com/MuzzammilZekri/Projects/blob/main/Property_Prices_Chronos_2.ipynb)
 
 **Malaysia's Housing Affordability Dashboard**
 
