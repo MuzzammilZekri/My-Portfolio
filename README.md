@@ -15,9 +15,13 @@ This section briefly highlights some of my personal projects.
 
 **Malaysia Housing Price Forecasting with Chronos-2 Foundation Model**
 
+**Year**: 2026
+
+**Project Type**: Personal Project
+
 **Objective**: To evaluate the time-series forecasting capabilities of Amazon’s Chronos-2 foundation model on historical Malaysian housing price dynamics.
 
-**Description**: This project implements a time-series forecasting pipeline utilising the Chronos-2 foundation model to predict Malaysian residential property price trends. By contrasting Chronos-2’s probabilistic, transformer-based approach, this study evaluates the efficacy of foundation models in real estate market forecasting.
+**Description**: This project implements a time-series forecasting pipeline utilising the Chronos-2 foundation model to predict trends in Malaysian residential property prices. By contrasting Chronos-2’s probabilistic, transformer-based approach, this study evaluates the efficacy of foundation models in real estate market forecasting.
 
 **Skills**: Data Cleaning,  Time Series Analysis & Forecasting, Deep Learning Foundation Models for Time Series, Model Evaluation & Benchmarking
 
@@ -29,6 +33,10 @@ This section briefly highlights some of my personal projects.
 
 **Malaysia's Housing Affordability Dashboard**
 
+**Year**: 2026
+
+**Project Type**: Personal Project
+
 **Objective**: Democratise granular housing market data by evaluating longitudinal housing affordability trends across national, state, and district levels, uncovering localised micro-affordability crises masked by aggregate macro baselines.
 
 **Description**: An interactive, multi-tiered real estate analytics dashboard built to analyze over 15,000 data points across 16 states/territories and 137 districts in Malaysia over a 10-year period (2015–2025). The dashboard cross-references household median income against mean/median property prices across 9 distinct residential dwelling types to evaluate Price-Income Ratios (PIR) and track spatial affordability shifts.
@@ -37,11 +45,15 @@ This section briefly highlights some of my personal projects.
 
 **Technology**: Tableau, Microsoft Excel
 
-**Result**: Identified that while the aggregate national PIR improved from $4.01x (2015) to $3.20x (2025), district-level unaffordability worsened across market-rate dwellings, proving macro metrics mask micro-market realities. The findings show the total disappearance of healthy state baselines (<3.00x PIR) post-2019, revealing that every state now breaches healthy limits for overall aggregate housing stock.
+**Result**: Identified that while the aggregate national PIR improved from $4.01x (2015) to $3.20x (2025), district-level unaffordability worsened across market-rate dwellings, proving macro metrics mask micro-market realities. The findings show the complete disappearance of healthy state baselines (<3.00x PIR) post-2019, indicating that every state now breaches healthy limits for the aggregate housing stock.
 
 **Link**: [Tableau Public](https://public.tableau.com/app/profile/muzzammil.zekri/viz/MalaysiasHousingAffordabilityDashboard/Dashboard-HousingAffordability)
 
-**Data-driven literature analysis of artificial intelligence (AI) in real estate research: a bibliometric and machine learning-based approach** - Peer-reviewed research paper
+**Data-driven literature analysis of artificial intelligence (AI) in real estate research: a bibliometric and machine learning-based approach**
+
+**Year**: 2025
+
+**Project Type**: Peer-reviewed article
 
 **Objective**: The study aims to provide a comprehensive review of research trends and developments in the application of artificial intelligence (AI) within the real estate domain, with a focus on understanding the field’s diversity and evolution.
 
@@ -59,7 +71,7 @@ This section briefly highlights some of my personal projects.
 
 # Education
 
-Doctorate Degree (PhD), Property - University of Auckland
+Doctoral Degree (PhD), Property - University of Auckland
 
 Master’s Degree (M.Phil), Real Estate - Universiti Teknologi Malaysia
 
