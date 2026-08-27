@@ -2,7 +2,7 @@
 
 # Hi, I'm Muzzammil! 👋
 
-I am a Property Researcher with a PhD in Property and a strong interest in using data, analytics, and technology to understand property markets, infrastructure, and public policy. This repository serves as my portfolio, where I showcase selected projects, research, data analysis, and technical work.
+I am a Property Researcher/Analysit with a PhD in Property and a strong interest in using data, analytics, and technology to understand property markets, infrastructure, and public policy. This repository serves as my portfolio, showcasing selected projects, research, data analysis, and technical work.
 
 Throughout my academic and professional experience, I have developed skills in data analysis, statistical modelling, machine learning, property market research, and data visualisation. I work with tools including Python, R, Excel, Tableau, SPSS, EViews, NVivo, and GIS
 
