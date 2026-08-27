@@ -67,8 +67,6 @@ This section briefly highlights some of my personal projects.
 
 **Link**: [ResearchGate](https://www.researchgate.net/publication/395957312_Data-driven_literature_analysis_of_artificial_intelligence_AI_in_real_estate_research_a_bibliometric_and_machine_learning-based_approach)
 
-**Code**:
-
 # Education
 
 Doctoral Degree (PhD), Property - University of Auckland
