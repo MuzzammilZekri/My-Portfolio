@@ -11,7 +11,26 @@ My research background has focused on property and infrastructure, including pub
 In my free time, I enjoy exploring new analytical tools, experimenting with machine learning and data visualisation techniques. I am always looking for opportunities to learn, build, and apply data-driven approaches to real-world problems.
 
 # Projects
-This section briefly highlights some of my personal projects.
+This section briefly highlights some of my personal projects:
+
+**Malaysia Housing Affordability - District Clustering Analysis (K-Means)**
+
+**Year**: 2026
+
+**Project Type**: Personal Project
+
+**Objective**: To cluster districts into distinct economic patterns beyond simple state/geographic boundaries.
+
+**Description**: This project applies K-Means clustering to district-level housing data across Malaysia to identify natural economic groupings beyond administrative boundaries. Rather than assuming districts behave similarly because they share a state, the analysis clusters districts purely on their underlying economic profile: median income, median house price, Price-to-Income Ratio (PIR), and historical price growth rate.
+
+**Skill**: Data cleaning & wrangling, data visualisation, statistical analysis (correlation, regression, significance testing), unsupervised machine learning (K-Means clustering, PCA)
+
+**Technology**: Python (pandas, scikit-learn, matplotlib), Jupyter
+
+**Result**: The number of clusters was chosen using the elbow method and silhouette score, then deliberately adjusted from the statistically "optimal" k=2 to a more interpretable k=4, a documented trade-off, since k=2 only separated districts by broad urban/rural scale rather than by affordability dynamics. The resulting four clusters revealed patterns invisible in a simple state-by-state comparison, most notably that East Malaysia's state capitals (Kota Kinabalu, Kuching) cluster with remote, rapidly appreciating districts in a high-strain group, rather than with Peninsular Malaysia's prosperous urban centers (Kuala Lumpur, Selangor, Johor Bahru), despite all being their region's largest city.
+
+**Code**: [K-Means Clustering Malaysia District.ipynb](https://github.com/MuzzammilZekri/Projects/blob/main/K-Means%20Clustering%20Malaysia%20District.ipynb)
+
 
 **Malaysia Housing Price Forecasting with Chronos-2 Foundation Model**
 
@@ -25,11 +44,12 @@ This section briefly highlights some of my personal projects.
 
 **Skills**: Data Cleaning,  Time Series Analysis & Forecasting, Deep Learning Foundation Models for Time Series, Model Evaluation & Benchmarking
 
-**Technology**: Python, Pandas, NumPy, matplotlib
+**Technology**: Python (Pandas, NumPy, matplotlib), Jupyter
 
 **Result**: Using the Chornos-2 time-series model on 84 quarters of data (2005-2025), backtested against real outcomes with a 1.08% MAPE, which is a strong fit. The projection through 2028 shows that average prices climb from RM510,593 to ~RM545,951, a further ~7% rise, with a 90% confidence interval of RM523,598–RM564,885.
 
 **Code**: [Property_Prices_Chronos_2.ipynb](https://github.com/MuzzammilZekri/Projects/blob/main/Property_Prices_Chronos_2.ipynb)
+
 
 **Malaysia's Housing Affordability Dashboard**
 
@@ -43,11 +63,12 @@ This section briefly highlights some of my personal projects.
 
 **Skills**: Data Cleaning,  Data Wrangling, Data Visualisation, Data Analytics, Property Economics and Research
 
-**Technology**: Tableau, Microsoft Excel
+**Technology**: Tableau, Microsoft Excel, GeoJson
 
 **Result**: Identified that while the aggregate national PIR improved from $4.01x (2015) to $3.20x (2025), district-level unaffordability worsened across market-rate dwellings, proving macro metrics mask micro-market realities. The findings show the complete disappearance of healthy state baselines (<3.00x PIR) post-2019, indicating that every state now breaches healthy limits for the aggregate housing stock.
 
 **Link**: [Tableau Public](https://public.tableau.com/app/profile/muzzammil.zekri/viz/MalaysiasHousingAffordabilityDashboard/Dashboard-HousingAffordability)
+
 
 **Data-driven literature analysis of artificial intelligence (AI) in real estate research: a bibliometric and machine learning-based approach**
 
